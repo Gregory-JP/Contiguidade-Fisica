@@ -1,5 +1,5 @@
-# Quantiguidade-Fisica
-Implementação de listas lineares por quantiguidade fisíca. Aqui cada elemento do vetor represnta um nodo da lista. Qualquer nodo pode ser acessado diretamente através do índice do vetor, não sendo necessário percorrer toda a lista desde o início.
+# Contiguidade-Fisica
+Implementação de listas lineares por contiguidade fisíca. Aqui cada elemento do vetor representa um nodo da lista. Qualquer nodo pode ser acessado diretamente através do índice do vetor, não sendo necessário percorrer toda a lista desde o início.
 
 # Definição Matemática
 Uma lista linear é uma coleção de n>= 0 nodos x[1], x[2] ..., x[n], cujas propriedades estruturais relevantes envolvem apenas as posições relativas lineares dos nodos:
