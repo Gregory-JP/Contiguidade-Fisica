@@ -48,10 +48,6 @@ class Contiguity_list:
         self.size = 0 
 
 
-                
-        
-
-
 contiguity_list = Contiguity_list(10)
 contiguity_list.insert_node(9, 666)
 contiguity_list.insert_node(0, 9)
